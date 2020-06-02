@@ -1,0 +1,10 @@
+# NPM / Yarn
+yarn.lock
+package-lock.json
+node_modules
+
+# IDE
+.idea
+
+# OS
+.DS_Store
